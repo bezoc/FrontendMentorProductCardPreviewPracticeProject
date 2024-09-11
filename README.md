@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bezoc/FrontendMentorProductCardPreviewPracticeProject)
-- Live Site URL: [Add live site URL here](https://bezoc.github.io/FrontendMentorProductCardPreviewPracticeProject/)
+- Solution URL: [Solution](https://github.com/bezoc/FrontendMentorProductCardPreviewPracticeProject)
+- Live Site URL: [Live Site](https://bezoc.github.io/FrontendMentorProductCardPreviewPracticeProject/)
 
 ### Built with
 
