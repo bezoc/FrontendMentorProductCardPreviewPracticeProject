@@ -29,4 +29,4 @@ I learned how to build a simple web responsive design using HTML, CSS, Flexbox.
 
 ## Author
 
-- Frontend Mentor - [@neirucode](https://www.frontendmentor.io/profile/bezoc)
+- Frontend Mentor - [@bezoc](https://www.frontendmentor.io/profile/bezoc)
