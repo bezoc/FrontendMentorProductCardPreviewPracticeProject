@@ -9,7 +9,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./readme/Screenshot.png)
+![](./readme/Screenshot2.png)
 
 ### Links
 
