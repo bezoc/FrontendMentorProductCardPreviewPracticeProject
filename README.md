@@ -13,13 +13,13 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/bezoc/FrontendMentorProductCardPreviewPracticeProject)
-- Live Site URL: [Live Site](https://bezoc.github.io/FrontendMentorProductCardPreviewPracticeProject/)
+- [Solution](https://github.com/bezoc/FrontendMentorProductCardPreviewPracticeProject)
+- [Live Site](https://bezoc.github.io/FrontendMentorProductCardPreviewPracticeProject/)
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML
+- CSS 
 - Flexbox
 
 
